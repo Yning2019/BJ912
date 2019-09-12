@@ -7,5 +7,6 @@ class Test001:
 
     def test_003(self):
         print("test003被执行")
+        # 执行断言
         assert 1
         # https://github.com/Yning2019/BJ912.git
