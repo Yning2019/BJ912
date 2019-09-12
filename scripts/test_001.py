@@ -7,5 +7,5 @@ class Test001:
 
     def test_003(self):
         print("test003被执行")
-        assert 0
+        assert 1
         # https://github.com/Yning2019/BJ912.git
