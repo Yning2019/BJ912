@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "CHINA-20190414I",
+    "children" : [ {
+      "name" : "39516-MainThread",
+      "children" : [ {
+        "name" : "Test001.test_003",
+        "uid" : "15c2300a998ab6a9",
+        "parentUid" : "ade7db0c4d5a2e753158d5160036fbbd",
+        "status" : "failed",
+        "time" : {
+          "start" : 1568258721709,
+          "stop" : 1568258721742,
+          "duration" : 33
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test001.test_001",
+        "uid" : "13fd19847aaeec21",
+        "parentUid" : "ade7db0c4d5a2e753158d5160036fbbd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1568258721668,
+          "stop" : 1568258721672,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test001.test_002",
+        "uid" : "6075434839ea1802",
+        "parentUid" : "ade7db0c4d5a2e753158d5160036fbbd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1568258721704,
+          "stop" : 1568258721706,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ade7db0c4d5a2e753158d5160036fbbd"
+    } ],
+    "uid" : "7221127f641164a6ac7daec4ebfa4b2c"
+  } ]
+}

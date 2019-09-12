@@ -1,0 +1,66 @@
+{
+  "uid" : "15c2300a998ab6a9",
+  "name" : "Test001.test_003",
+  "fullName" : "test_001.Test001.test_003",
+  "historyId" : "4a727a7148bdfa1e56d01f2bbf472021",
+  "time" : {
+    "start" : 1568258721709,
+    "stop" : 1568258721742,
+    "duration" : 33
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 0",
+  "statusTrace" : "self = <test_001.Test001 object at 0x0000019F58BB7470>\n\n    def test_003(self):\n        print(\"test003被执行\")\n>       assert 0\nE       assert 0\n\nscripts\\test_001.py:10: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "CHINA-20190414I"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "39516-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_001"
+  }, {
+    "name" : "testClass",
+    "value" : "test_001"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test001.test_003"
+  }, {
+    "name" : "package",
+    "value" : "test_001"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "15c2300a998ab6a9.json",
+  "parameterValues" : [ ]
+}
